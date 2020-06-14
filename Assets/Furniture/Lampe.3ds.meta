@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: d9925482daef44e139283eb486d4d0de
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Deckf
+    100002: Deckf1
+    100004: Deckf2
+    100006: Deckfl_che
+    100008: Extru
+    100010: Extrudiere
+    100012: Kapse
+    100014: Kapsel
+    100016: //RootNode
+    100018: Lampe
+    100020: Licht
+    100022: Licht1
+    100024: Loft_1
+    100026: Schalter
+    100028: Sweep_1
+    100030: W_rfe
+    100032: W_rfel
+    400000: Deckf
+    400002: Deckf1
+    400004: Deckf2
+    400006: Deckfl_che
+    400008: Extru
+    400010: Extrudiere
+    400012: Kapse
+    400014: Kapsel
+    400016: //RootNode
+    400018: Lampe
+    400020: Licht
+    400022: Licht1
+    400024: Loft_1
+    400026: Schalter
+    400028: Sweep_1
+    400030: W_rfe
+    400032: W_rfel
+    2300000: Deckf
+    2300002: Deckf1
+    2300004: Deckf2
+    2300006: Deckfl_che
+    2300008: Extru
+    2300010: Extrudiere
+    2300012: Kapse
+    2300014: Kapsel
+    2300016: Lampe
+    2300018: Loft_1
+    2300020: Schalter
+    2300022: Sweep_1
+    2300024: W_rfe
+    2300026: W_rfel
+    3300000: Deckf
+    3300002: Deckf1
+    3300004: Deckf2
+    3300006: Deckfl_che
+    3300008: Extru
+    3300010: Extrudiere
+    3300012: Kapse
+    3300014: Kapsel
+    3300016: Lampe
+    3300018: Loft_1
+    3300020: Schalter
+    3300022: Sweep_1
+    3300024: W_rfe
+    3300026: W_rfel
+    4300000: Schalter
+    4300002: Extrudiere
+    4300004: Deckfl_che
+    4300006: Deckf
+    4300008: Extru
+    4300010: Deckf1
+    4300012: Deckf2
+    4300014: W_rfel
+    4300016: W_rfe
+    4300018: Lampe
+    4300020: Kapsel
+    4300022: Kapse
+    4300024: Sweep_1
+    4300026: Loft_1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat1
+    second: {fileID: 2100000, guid: f2db666374b344676874fabbabd0e045, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat123
+    second: {fileID: 2100000, guid: 168f9b497824742569597351c0a54aa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nukei
+    second: {fileID: 2100000, guid: f3fe962600a7f4d3c932f7dc6395c31d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

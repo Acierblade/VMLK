@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 0dbcaa05e87874f26a6b3f2ce031fd1d
+timeCreated: 1467126653
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CMan0001-Se
+    100002: CMan0001-St
+    100004: CMan0002-Se
+    100006: CMan0002-Wa
+    100008: CMan0003-Re
+    100010: CMan0003-Se
+    100012: CMan0004-Se
+    100014: CMan0004-St
+    100016: CMan0005-Se
+    100018: CMan0005-Wa
+    100020: //RootNode
+    100022: CWom0001-Se
+    100024: CWom0001-Wa
+    100026: CWom0002-Se
+    100028: CWom0002-Wa
+    100030: CWom0003-Se
+    100032: CWom0003-Wa
+    100034: CWom0004-Se
+    100036: CWom0004-St
+    100038: CWom0005-Se
+    100040: CWom0005-Wa
+    400000: CMan0001-Se
+    400002: CMan0001-St
+    400004: CMan0002-Se
+    400006: CMan0002-Wa
+    400008: CMan0003-Re
+    400010: CMan0003-Se
+    400012: CMan0004-Se
+    400014: CMan0004-St
+    400016: CMan0005-Se
+    400018: CMan0005-Wa
+    400020: //RootNode
+    400022: CWom0001-Se
+    400024: CWom0001-Wa
+    400026: CWom0002-Se
+    400028: CWom0002-Wa
+    400030: CWom0003-Se
+    400032: CWom0003-Wa
+    400034: CWom0004-Se
+    400036: CWom0004-St
+    400038: CWom0005-Se
+    400040: CWom0005-Wa
+    2300000: CMan0001-Se
+    2300002: CMan0001-St
+    2300004: CMan0002-Se
+    2300006: CMan0002-Wa
+    2300008: CMan0003-Re
+    2300010: CMan0003-Se
+    2300012: CMan0004-Se
+    2300014: CMan0004-St
+    2300016: CMan0005-Se
+    2300018: CMan0005-Wa
+    2300020: CWom0001-Se
+    2300022: CWom0001-Wa
+    2300024: CWom0002-Se
+    2300026: CWom0002-Wa
+    2300028: CWom0003-Se
+    2300030: CWom0003-Wa
+    2300032: CWom0004-Se
+    2300034: CWom0004-St
+    2300036: CWom0005-Se
+    2300038: CWom0005-Wa
+    3300000: CMan0001-Se
+    3300002: CMan0001-St
+    3300004: CMan0002-Se
+    3300006: CMan0002-Wa
+    3300008: CMan0003-Re
+    3300010: CMan0003-Se
+    3300012: CMan0004-Se
+    3300014: CMan0004-St
+    3300016: CMan0005-Se
+    3300018: CMan0005-Wa
+    3300020: CWom0001-Se
+    3300022: CWom0001-Wa
+    3300024: CWom0002-Se
+    3300026: CWom0002-Wa
+    3300028: CWom0003-Se
+    3300030: CWom0003-Wa
+    3300032: CWom0004-Se
+    3300034: CWom0004-St
+    3300036: CWom0005-Se
+    3300038: CWom0005-Wa
+    4300000: CMan0001-Se
+    4300002: CMan0001-St
+    4300004: CMan0002-Se
+    4300006: CMan0002-Wa
+    4300008: CMan0003-Re
+    4300010: CMan0003-Se
+    4300012: CMan0004-Se
+    4300014: CMan0004-St
+    4300016: CMan0005-Se
+    4300018: CMan0005-Wa
+    4300020: CWom0001-Se
+    4300022: CWom0001-Wa
+    4300024: CWom0002-Se
+    4300026: CWom0002-Wa
+    4300028: CWom0003-Se
+    4300030: CWom0003-Wa
+    4300032: CWom0004-Se
+    4300034: CWom0004-St
+    4300036: CWom0005-Se
+    4300038: CWom0005-Wa
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

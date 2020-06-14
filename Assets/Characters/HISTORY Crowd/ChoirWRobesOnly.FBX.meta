@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 858ac8b2c86fedc4d941d9d559d9560a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AMan
+    100002: AWoman
+    100004: C-Bro
+    100006: C-Wo
+    100008: ChoirRobe
+    100010: ChoirRobe002
+    100012: ChoirRobe003
+    100014: ChoirRobe004
+    100016: ChoirRobe005
+    100018: ChoirRobe006
+    100020: ChoirRobe007
+    100022: ChoirRobe008
+    100024: ChoirRobe009
+    100026: //RootNode
+    100028: Chris
+    100030: D-Man
+    100032: EMan
+    100034: Right
+    100036: Sitting002
+    100038: Woman_C
+    400000: AMan
+    400002: AWoman
+    400004: C-Bro
+    400006: C-Wo
+    400008: ChoirRobe
+    400010: ChoirRobe002
+    400012: ChoirRobe003
+    400014: ChoirRobe004
+    400016: ChoirRobe005
+    400018: ChoirRobe006
+    400020: ChoirRobe007
+    400022: ChoirRobe008
+    400024: ChoirRobe009
+    400026: //RootNode
+    400028: Chris
+    400030: D-Man
+    400032: EMan
+    400034: Right
+    400036: Sitting002
+    400038: Woman_C
+    2100000: Chris
+    2100002: C-Bro
+    2100004: C-Wo
+    2100006: D-Man
+    2100008: E_Man
+    2100010: _Body_Low12
+    2100012: _Body_Low
+    2100014: _Body_Low2
+    2100016: LowText
+    2100018: Plastic
+    2100020: Glass
+    2100022: 08 - Default
+    2300000: AMan
+    2300002: AWoman
+    2300004: C-Bro
+    2300006: C-Wo
+    2300008: ChoirRobe
+    2300010: ChoirRobe002
+    2300012: ChoirRobe003
+    2300014: ChoirRobe004
+    2300016: ChoirRobe005
+    2300018: ChoirRobe006
+    2300020: ChoirRobe007
+    2300022: ChoirRobe008
+    2300024: ChoirRobe009
+    2300026: Chris
+    2300028: D-Man
+    2300030: EMan
+    2300032: Right
+    2300034: Sitting002
+    2300036: Woman_C
+    3300000: AMan
+    3300002: AWoman
+    3300004: C-Bro
+    3300006: C-Wo
+    3300008: ChoirRobe
+    3300010: ChoirRobe002
+    3300012: ChoirRobe003
+    3300014: ChoirRobe004
+    3300016: ChoirRobe005
+    3300018: ChoirRobe006
+    3300020: ChoirRobe007
+    3300022: ChoirRobe008
+    3300024: ChoirRobe009
+    3300026: Chris
+    3300028: D-Man
+    3300030: EMan
+    3300032: Right
+    3300034: Sitting002
+    3300036: Woman_C
+    4300000: Chris
+    4300002: C-Bro
+    4300004: C-Wo
+    4300006: D-Man
+    4300008: EMan
+    4300010: Woman_C
+    4300012: AWoman
+    4300014: AMan
+    4300016: Sitting002
+    4300018: Right
+    4300020: ChoirRobe
+    4300022: ChoirRobe002
+    4300024: ChoirRobe003
+    4300026: ChoirRobe004
+    4300028: ChoirRobe005
+    4300030: ChoirRobe006
+    4300032: ChoirRobe007
+    4300034: ChoirRobe008
+    4300036: ChoirRobe009
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: 842c9484ca7403e46a056b345a09809d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

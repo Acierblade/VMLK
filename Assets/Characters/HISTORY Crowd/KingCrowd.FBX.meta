@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 3e69a1c2a2c0ae644839643406509611
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AMan
+    100002: AWoman
+    100004: C-Bro
+    100006: C-Wo
+    100008: Chris
+    100010: D-Man
+    100012: EMan
+    100014: //RootNode
+    100016: Right
+    100018: Sitting002
+    100020: Woman_C
+    100022: Right_MeshPart0
+    100024: Right_MeshPart1
+    400000: AMan
+    400002: AWoman
+    400004: C-Bro
+    400006: C-Wo
+    400008: Chris
+    400010: D-Man
+    400012: EMan
+    400014: //RootNode
+    400016: Right
+    400018: Sitting002
+    400020: Woman_C
+    400022: Right_MeshPart0
+    400024: Right_MeshPart1
+    2300000: AMan
+    2300002: AWoman
+    2300004: C-Bro
+    2300006: C-Wo
+    2300008: Chris
+    2300010: D-Man
+    2300012: EMan
+    2300014: Right
+    2300016: Sitting002
+    2300018: Woman_C
+    2300020: Right_MeshPart0
+    2300022: Right_MeshPart1
+    3300000: AMan
+    3300002: AWoman
+    3300004: C-Bro
+    3300006: C-Wo
+    3300008: Chris
+    3300010: D-Man
+    3300012: EMan
+    3300014: Right
+    3300016: Sitting002
+    3300018: Woman_C
+    3300020: Right_MeshPart0
+    3300022: Right_MeshPart1
+    4300000: Chris
+    4300002: C-Bro
+    4300004: C-Wo
+    4300006: D-Man
+    4300008: EMan
+    4300010: Woman_C
+    4300012: AWoman
+    4300014: AMan
+    4300016: Sitting002
+    4300018: Right
+    4300020: Right_MeshPart0
+    4300022: Right_MeshPart1
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C-Bro
+    second: {fileID: 2100000, guid: 0f2421bf70d61de498b038f1ac6168b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C-Wo
+    second: {fileID: 2100000, guid: 27641efb5e45ef646a0577b39faf9ae3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chris
+    second: {fileID: 2100000, guid: 540f953c267856e4384c68ed47c28d97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: D-Man
+    second: {fileID: 2100000, guid: 557f5232170c3ec41b2c3cbf4d1cd57c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: E_Man
+    second: {fileID: 2100000, guid: 7ca579ed7e0b03843a43063850e16988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 804136e756266c8478dcc2c41416cffb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LowText
+    second: {fileID: 2100000, guid: e00b0ba9d78dc80408212d91d6d82a3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: 02db4ad4657f24c45a84836c29ab666b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Body_Low
+    second: {fileID: 2100000, guid: 65ae9246112e0614e8d5b5b07e845190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Body_Low12
+    second: {fileID: 2100000, guid: 06bc344e7f679414f89cb542295b7add, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Body_Low2
+    second: {fileID: 2100000, guid: 4b0a999f0f4fab748869e88cd50a55f7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 63
+    secondaryUVHardAngle: 25
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
